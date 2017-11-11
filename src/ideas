@@ -1,0 +1,13 @@
+Structural:
+- comments
+- action file
+
+GamePlay:
+- "go-to" command
+- skills (soft/hard, see files)
+- stats (health hunger thirst)
+- attributes (for items, rooms, exits)
+
+Utility:
+- parser
+- load/save
